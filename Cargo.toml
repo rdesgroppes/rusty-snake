@@ -1,0 +1,9 @@
+[package]
+name = "rusty-snake"
+version = "0.1.0"
+authors = ["Régis Desgroppes <rdesgroppes@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
+sdl2 = "0.30.0"
+rand = "0.7"
